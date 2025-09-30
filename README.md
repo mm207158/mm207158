@@ -44,21 +44,7 @@
 
 ---
 
-## 🏆 GitHub Trophies  
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mariam-mahmoud&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 👀 Visitors Count  
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mariam-mahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
----
 
 <br clear="both">
 
