@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 <div align="center">
   
@@ -33,16 +33,30 @@
 ## 🌐 Connect with me  
 
 <div align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/mariam-mahmoud-62823129a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="devmariam2021@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
   </a>
-  <a href="https://instagram.com/your-instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
-  </a>
+  
 </div>  
+
+---
+
+## 🏆 GitHub Trophies  
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mariam-mahmoud&theme=dracula&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 👀 Visitors Count  
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=mariam-mahmoud&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
