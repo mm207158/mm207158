@@ -5,10 +5,7 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mariam-mahmoud&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mariam-mahmoud&layout=compact&langs_count=8&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
+
 
 ---
 
